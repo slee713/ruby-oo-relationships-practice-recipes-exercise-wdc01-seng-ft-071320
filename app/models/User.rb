@@ -43,6 +43,14 @@ class User
         self.recipes.last
     end
 
+    # def safe_recipes
+    #     self.recipes.find_all do |recipe|
+           
+    #         self.allergens.each do
+
+    #     end
+    # end
+
     
 
 end
